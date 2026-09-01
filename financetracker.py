@@ -50,3 +50,5 @@ console.print(table)
 
 
 
+
+print("Thank you for using")
