@@ -45,10 +45,4 @@ for entry in mylist:
 
 console.print(table)
 
-
-
-
-
-
-
-print("Thank you for using")
+print("thank you for using")
